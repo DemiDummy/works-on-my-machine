@@ -1,7 +1,8 @@
 # Works On My Machine
 
-A co-op game about making games, badly. Gather parts, build a level, playtest it, find the bugs, ship it, and
-hit the Publisher's quota before you all get fired. **Play it at https://demidummy.github.io/works-on-my-machine/**
+A co-op game about making games, badly. Build levels out of parts, playtest them, find and patch the ridiculous
+bugs, release the game, and keep your tiny studio alive on the sales before the publisher fires you all.
+**Play it at https://demidummy.github.io/works-on-my-machine/**
 
 One player clicks **Host a studio** and shares the 4-letter room code; everyone else types it and clicks Join.
 Keyboard and mouse. Press H in game for the how-to.
